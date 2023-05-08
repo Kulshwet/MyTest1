@@ -1,0 +1,5 @@
+Class student
+{
+    int id;
+   
+}
